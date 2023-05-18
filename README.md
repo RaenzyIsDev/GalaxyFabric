@@ -17,7 +17,8 @@ I will post direct links to dev packs that are currently under construction if a
 uhh thats all for now?
 ⚠️
 
-![image](https://github.com/RaenzyIsDev/GalaxyFabric/assets/132928035/e9977c6d-5771-4dc2-83ac-53e453b9bac8)
+![image](https://github.com/RaenzyIsDev/GalaxyFabric/assets/132928035/4cae321a-241f-490d-9ff7-161d63379ead)
+
 
 ABOUT
 
