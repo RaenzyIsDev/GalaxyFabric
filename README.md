@@ -1,5 +1,5 @@
 # GalaxyFabric
-A Minecraft client for Fabric. Updates on the double, perfect for the day to day power boost. 
+A Minecraft client for Fabric. Updates on the double, perfect for the day to day power boost. Easily editable with Fabric.
 
 ![image](https://github.com/RaenzyIsDev/GalaxyFabric/assets/132928035/f050a777-f1ca-462e-9dad-14e388556b79) Follow if you like the FOSS cat! #foss-cat
 
@@ -10,9 +10,10 @@ A Minecraft client for Fabric. Updates on the double, perfect for the day to day
 
 IMPORTANT! 
 
-⚠️ Extended Dev Packs (Patches or updates) are hosted on MediaFire, uploaded to GitHub, **then DELETED.**
-Dev packs **will not** be restored, minor patches will be made to fix things. If a mod is broken, kindly open an issue and I'll do what I can to fix it.
-I will post direct links to dev packs that are currently under construction if asked. These are **VIEW ONLY**.
+⚠️ Extended Dev Packs (Patches, updates, and reccommended textures) are hosted on GDrive, uploaded to GitHub, **then DELETED.**
+Dev packs **will not** be restored, minor patches will be made to fix things. If a mod is broken, kindly open an issue and I'll do what I can to fix it. I kinda want to be one and done w/ updates ngl.
+
+I will post direct links to dev packs that are currently under construction if asked. (You could donate to my patreon\kofi 🙏 and I'll try to give you playable packs right away) These are **VIEW ONLY**.
 
 uhh thats all for now?
 ⚠️
